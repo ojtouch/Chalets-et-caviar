@@ -20,6 +20,7 @@
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info container">
 			Copyright 2019 - Chalets & Caviar
+			<a href="http://www.ojtouch.fr/wp-login">Connexion</a>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 
